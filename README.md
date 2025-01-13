@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcoLeo2004
-- 👀 I’m interested in Game Design
+- 👀 I’m studying Game and Level Design
 - 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m looking to collaborate on videogames
 - 📫 How to reach me: marcoleo2004@gmail.com
