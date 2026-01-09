@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MarcoLeo2004
-- 👀 I’m studying Game and Level Design
-- 🌱 I’m currently learning Unreal Engine 5
+- 👋🏻 Hi, I’m @MarcoLeo2004
+- 👀 I’m a Level Designer specialized in single player games
+- 🌱 I’m currently using Unreal Engine 5
 - 💞️ I’m looking to collaborate on videogames
-- 📫 How to reach me: marcoleo2004@gmail.com
+- 📩 How to reach me: marcoleo2004@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
